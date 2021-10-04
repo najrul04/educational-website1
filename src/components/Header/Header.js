@@ -6,13 +6,13 @@ const Header = () => {
     return (
         <Navbar bg="dark" variant="dark">
     <Container className='py-1'>
-    <Navbar.Brand className='text-info fs-2'>Football School</Navbar.Brand>
+    <Navbar.Brand className='text-info fs-4'>Football School</Navbar.Brand>
     <Nav className="me-auto">
 
-      <NavLink  className='m-2 text-white text-decoration-none fs-3' to="/home" >Home</NavLink>
-      <NavLink  className='m-2 text-white text-decoration-none fs-3' to="/services">Services</NavLink>
-      <NavLink  className='m-2 text-white text-decoration-none fs-3' to="/about">About Us</NavLink>
-      <NavLink  className='m-2 text-white text-decoration-none fs-3' to="/contact">Contact Us</NavLink>
+      <NavLink  className='m-2 fs-5 text-white text-decoration-none' to="/home" >Home</NavLink>
+      <NavLink  className='m-2 fs-5 text-white text-decoration-none' to="/services">Services</NavLink>
+      <NavLink  className='m-2 fs-5 text-white text-decoration-none' to="/about">About Us</NavLink>
+      <NavLink  className='m-2 fs-5 text-white text-decoration-none' to="/contact">Contact Us</NavLink>
 
     </Nav>
     </Container>
