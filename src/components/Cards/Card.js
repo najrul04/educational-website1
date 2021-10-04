@@ -15,7 +15,7 @@ const Cards = (props) => {
       <br />
       <p>{details}</p>
     </Card.Text>
-    <Button className="bg-primary text-white rounded">Buy Now</Button>
+    <Button className="bg-dark text-white rounded-pill my-3 p-2 ">Buy Now</Button>
   </Card.Body>
 </Card> 
         </div>

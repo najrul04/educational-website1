@@ -13,6 +13,8 @@ const Contact = () => {
             <h3>Field Information : +8801551120125</h3>
             <h3>Players Food Information : +8801551987335</h3>
             <h3>Hostel Information : +8801552142335</h3>
+
+            <h1>Email Us: www.footballschool.com </h1>
         </div>
     );
 };
