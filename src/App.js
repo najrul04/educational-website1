@@ -10,34 +10,68 @@ import Services from './components/Services/Services';
 
 function App() {
   const homeStyle = {
-    display: 'grid',gridTemplateColumns: 'repeat(3, 1fr)',gridGap:'30px'};
-const servicesStyle = {
-  display: 'grid',gridTemplateColumns: 'repeat(4, 1fr)',gridGap:'20px'};
+
+     display: 'grid',
+     gridTemplateColumns: 'repeat(3, 1fr)'
+    ,gridGap:'30px'
+
+  };
+
+  const servicesStyle = {
+
+     display: 'grid'
+    ,gridTemplateColumns: 'repeat(4, 1fr)'
+    ,gridGap:'20px'
+
+  };
   return (
+
     <div className="App">
       <BrowserRouter>
+
       <Header></Header>
+
       <Switch>
+
       <Route exact path='/'>
+
       <div className='m-4' style={homeStyle}><Home></Home></div>
+
       </Route>
+
       <Route path='/home'>
+
       <div className='m-4' style={homeStyle}><Home></Home></div>
+
       </Route>
+
       <Route path='/services'>
         <div className='m-4' style={servicesStyle}><Services></Services></div>
+
       </Route>
+
       <Route path='/about'>
+
         <About></About>
+
       </Route>
+
       <Route path='/contact'>
+
         <Contact></Contact>
+
       </Route>
+
       <Route path='/*'>
+
         <NotFound></NotFound>
+
       </Route>
+
       </Switch>
+
       <Footer></Footer>
+      
       </BrowserRouter>
     </div>
   );
