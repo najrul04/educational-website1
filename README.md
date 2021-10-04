@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Football School
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the live link of the project that I have created for the assignment i have given "https://football-school.netlify.app/"
 
-## Available Scripts
+## What is used in this Project:
 
-In the project directory, you can run:
+In this project i have used several things. Explantion of these things have given below:
 
-### `npm start`
+--- React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+--- Css
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+--- JS
 
-### `npm test`
+React was the main base of this project and in the middle I had to use CSS and JS to give it a proper dynamic look. Other than that I have used some other thing, which are:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---React Bootstrap
 
-### `npm run build`
+---React Router
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+So, these are the things I had to use in this project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### What is this website for?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I. This Website is to help the dream boys and their parents to find out the best and safe football academy for their kids to play and practice on.
 
-### `npm run eject`
+II. Even though a person doesn't become a professional footballer, they still should play it because it will help to have better lifestyle so people who are looking for places to play their game could find it too.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+III. Football is a beautiful and healthy game for all aged people. It brings so much together even after Ivery Coast Qualified for World Cup 2010, Didier Drogba and his teammates got in front of their knee and asked to stop the civil war that had been going on. Surprisingly it stopped and the peace came together. This is the power of football and by this website we hope to bring more kids into it.
