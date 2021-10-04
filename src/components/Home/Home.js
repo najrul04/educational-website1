@@ -10,7 +10,7 @@ const Home = () => {
     .then(data=>setCourses(data))
   },[])
     return (
-        courses.slice(0,10).map(course=><div
+        courses.slice(0,5).map(course=><div
         
         ><Cards course={course}></Cards
         
