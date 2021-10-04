@@ -1,0 +1,65 @@
+[
+  {
+     "id":"1",
+     "title":"Barcelona (La Masia)",
+     "price":"$5000",
+     "img":"https://images.daznservices.com/di/library/GOAL/89/a4/la-masia-andres-iniesta-lionel-messi-xavi-barcelona_b0s6jz5s8f1f1aqnmgvd3yskh.jpg?t=1466254592&quality=100",
+     "details":" La Masia, without a doubt the greatest soccer academy in the world, has produced a number of stars who have gone on to become the face of football in Spain and Europe. "
+  },
+  {
+      "id":"2",
+     "title":"Ajax Football Academy",
+     "price":"$4500",
+     "img":"https://e0.365dm.com/20/04/1600x900/skysports-ajax-johan-cruyff_4961484.jpg?20200403120827",
+     "details":"Ajax football academy has produced several famous talents who have gone on to have successful football careers. It is home to some of the greatest prospects in European football."
+  },
+  {
+      "id":"3",
+     "title":"Manchester United Academy",
+     "price":"$4000",
+     "img":"https://assets.manutd.com/AssetPicker/images/0/0/13/81/872872/ATC_Academy_HR-61582556011487_large.jpg",
+     "details":"Manchester United’s youth youngsters have a long history of appearing in regular league games, which has aided their development into world-class players."
+  },
+  {
+      "id":"4",
+     "title":"Bayern Munich",
+     "price":"$3800",
+     "img":"https://img.fcbayern.com/image/upload/v1601437231/cms/public/images/fcbayern-com/website-international/country-artikel-bilder/country-artikel---indien.jpg",
+     "details":"Bayern Munich’s academy is living up to its objective of maintaining a worldwide presence in soccer while instilling mental and physical strength in its players."
+  },
+  {
+      "id":"5",
+     "title":"Sporting Lisbon",
+     "price":"$3200",
+     "img":"https://lh3.googleusercontent.com/proxy/w9FkuBo6QcRDVzZXLzgpohSDavPyUyQQyWS489btJv2I3vQ31F2Nr7v-JsWL289-yZJtlT_KiI6PFuPpQrJnqR_3e3eYyl9OxD_p_THHh-nzW9o-3WQd_p8YZ8QbW6RVMmvXTxrS2_N4WUc",
+     "details":"One of the unquestionable accomplishments of the Sporting Lisbon football academy is the production of one of the finest players of the twenty-first century."
+  },
+  {
+      "id":"6",
+     "title":"Southampton",
+     "price":"$3000",
+     "img":"https://i0.wp.com/thesefootballtimes.co/wp-content/uploads/2015/04/bale-cropped_tgsyzfb4vkiz1o5523v9bbpqh.jpg?fit=1920%2C1080&ssl=1",
+     "details":"Southampton may not be a tough opponent in the EPL, but it has established its mark in the business of developing and teaching youngsters to become world-class players."
+  },
+  {
+      "id":"7",
+      "title":"Tractor S.C. Academy",
+      "price":"$700",
+      "img":"https://w0.peakpx.com/wallpaper/659/310/HD-wallpaper-tractor-sc-soccer-tractor-sazi-tractor-sports-club-tabriz-the-red-wolves-tiraxtor.jpg",
+      "details":"Tractor Sports Club Academy is Tractor Sports Club’s youth squad, which was formed in 2011. Tractor Club Football Academy, Iran’s first academy to equal commands AFC, began operations."
+  },
+  {
+      "id":"8",
+      "title":"Persepolis F.C. Academy",
+      "price":"$600",
+      "img":"https://i.pinimg.com/originals/10/42/86/104286b35470fc85216db931c02a77b3.jpg",
+      "details":"Persepolis Football Club Academy is Persepolis Football Club’s junior team. They are presently competing in the AFC Vision Asia Young Premier League, Iran’s top youth football competition."
+  },
+  {
+      "id":"9",
+      "title":" KIA Football Academy",
+      "price":"$500",
+      "img":"https://media.mehrnews.com/d/2018/05/22/4/2789295.jpg",
+      "details":" The KIA Football Club is an Iranian junior football academy founded in 2015 in southeastern Tehran by Mehdi Mahdavikia. It has been named “Iran’s greatest football academy” "
+  }
+]
