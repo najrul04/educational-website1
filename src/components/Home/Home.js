@@ -10,11 +10,7 @@ const Home = () => {
     .then(data=>setCourses(data))
   },[])
     return (
-<<<<<<< HEAD
         courses.slice(0,5).map(course=><div
-=======
-        courses.slice(0,05).map(course=><div
->>>>>>> 611d0d742148fdcf387aea901ae5e064f6a8801f
         
         ><Cards course={course}></Cards
         
