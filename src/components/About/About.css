@@ -1,4 +1,4 @@
-h1{
+/* h1{
 
     text-align: left;
     margin-left: 10px;
@@ -21,6 +21,28 @@ h4{
     margin-left: 10px;
     color: #0000ff9c;
     
+}
+
+span{
+
+    font-size: 20px;
+    font-weight: 700;
+    color: #ad2aad;
+
+} */
+
+
+.about{
+    margin-bottom: 20px;
+}
+.about-img{
+    padding: 20px;
+    height: 50%;
+}
+.card{
+    background-color:#b679e9c2 !important;
+    border: none;
+    height: 600px;
 }
 
 span{
