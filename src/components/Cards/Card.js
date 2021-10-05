@@ -8,7 +8,7 @@ const Cards = (props) => {
         <div>
 
 
-           <Card style={{ width: '100%', height: '520px' }}>
+           <Card style={{ width: '100%', height: '560px' }}>
 
 
   <Card.Img style={{height:'15rem'}} variant="top" src={img}/>
