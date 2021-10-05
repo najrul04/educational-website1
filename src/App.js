@@ -62,7 +62,7 @@ function App() {
 
       </Route>
 
-      <Route path='/*'>
+      <Route path='*'>
 
         <NotFound></NotFound>
 
