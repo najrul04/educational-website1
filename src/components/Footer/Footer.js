@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import "./Footer.css";
 const Footer = () => {
   return (
-    <div classNameName="footer">
+    <div className="footer overflow-hidden">
       <div className="row">
         <div className="col-md-12">
           <footer className="footer">
