@@ -9,7 +9,7 @@ import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
 
 function App() {
-  const homeStyle = {
+  const homeCss = {
 
      display: 'grid',
      gridTemplateColumns: 'repeat(3, 1fr)'
@@ -17,7 +17,7 @@ function App() {
 
   };
 
-  const servicesStyle = {
+  const servicesCss = {
 
      display: 'grid'
     ,gridTemplateColumns: 'repeat(4, 1fr)'
@@ -35,18 +35,18 @@ function App() {
 
       <Route exact path='/'>
 
-      <div className='m-4' style={homeStyle}><Home></Home></div>
+      <div className='m-4' style={homeCss}><Home></Home></div>
 
       </Route>
 
       <Route path='/home'>
 
-      <div className='m-4' style={homeStyle}><Home></Home></div>
+      <div className='m-4' style={homeCss}><Home></Home></div>
 
       </Route>
 
       <Route path='/services'>
-        <div className='m-4' style={servicesStyle}><Services></Services></div>
+        <div className='m-4' style={servicesCss}><Services></Services></div>
 
       </Route>
 
