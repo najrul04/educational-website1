@@ -14,6 +14,7 @@ const Home = () => {
         
         ><Cards course={course}></Cards
         
+        
         ></div>)
     )
 };
