@@ -7,7 +7,7 @@ const Header = () => {
         <Navbar bg="dark" variant="dark">
     <Container className='py-1'>
     <Navbar.Brand className='text-info fs-4'>Football School</Navbar.Brand>
-    <Nav className="me-auto">
+    <Nav>
 
       <NavLink  className='m-2 fs-5 text-white text-decoration-none' to="/home" >Home</NavLink>
       <NavLink  className='m-2 fs-5 text-white text-decoration-none' to="/services">Services</NavLink>
